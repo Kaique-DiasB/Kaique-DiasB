@@ -5,8 +5,7 @@
 )](https://www.linkedin.com/in/kaique-dias-barroso-23b336244/)
 
 ![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaique-DiasB&show_icons=true&theme=dracula)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-DiasB)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-DiasB&layout=compact)
 
 ## Tecnologias que eu uso no meu dia 
 
