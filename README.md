@@ -1,25 +1,52 @@
-### Olá! Eu sou o Kaique Dias 👋🏽
+# Olá, eu sou Kaique Dias Barroso 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kaidiass_/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](https://www.linkedin.com/in/kaique-dias-barroso-23b336244/)
+Lead & Engenheiro de Software Full Stack com foco em liderança técnica, desenvolvimento de APIs resilientes, microsserviços de alto desempenho e sustentação de sistemas críticos em produção. Conecto regras de negócio, decisões de arquitetura e infraestrutura de forma robusta e otimizada.
 
-<!--
-![Kaique's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaique-DiasB&show_icons=true&theme=dracula)
--->
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaique-DiasB&layout=compact)
+## 🚀 Posicionamento Profissional
 
-## Tecnologias que eu uso no meu dia 
-<!--
-<div style="display: inline_block"><br/>
-    <img aling= "center" alt= "HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-    <img aling= "center" alt= "CSSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-    <img aling= "center" alt= "JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-    <img aling= "center" alt= "PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-    <img aling= "center" alt= "C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-    <img aling= "center" alt= "Asp.Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
-</div><br/>
--->
+Atuo como Lead e Referência Técnica, liderando decisões de arquitetura de backend com **Node.js** e **Python**, e orientando o desenvolvimento de interfaces responsivas com **Vue.js/React**. Tenho ownership sobre a confiabilidade e escalabilidade de serviços integrados de pagamentos e fluxos multi-tenant, aplicando mensageria (AWS SQS) e conceitos de conciliação. 
 
-Estou estudando programação, adoro programar e me desafiar cada vez mais!
+Habilito o time de engenharia coordenando boards de sustentação, planejando a arquitetura de longo prazo e parametrizando ecossistemas locais de IA para aumentar a produtividade e a segurança dos desenvolvedores.
+
+---
+
+## 🛠️ Áreas de Atuação
+
+- **Backend & Arquitetura**: Desenvolvimento de APIs REST e microsserviços em FastAPI (Python) e Express (Node.js).
+- **Integrações Financeiras**: Webhooks, conciliação de pagamentos com adquirentes e processamento assíncrono de cobranças.
+- **Sistemas Multi-tenant**: Padrões de isolamento lógico de tenants e rotinas resilientes de dados.
+- **Modernização Incremental**: Planejamento e migração progressiva de interfaces legadas e monolíticos sem regressão.
+
+---
+
+## 👥 Liderança e Ownership
+
+- **AI Workspace**: Criação e estruturação da governança local de IA do time, otimizando o consumo de tokens e implementando barreiras de segurança para prevenir vazamentos de chaves ou execução de comandos destrutivos.
+- **Mentoria Técnica**: Condução de boas práticas de clean code, refatoração de código legada e onboarding de novos desenvolvedores.
+
+---
+
+## 💻 Stacks e Tecnologias
+
+- **Linguagens**: JavaScript, TypeScript, Python.
+- **Frameworks Backend**: FastAPI, Express.js, Fastify.
+- **Bancos de Dados & ORMs**: PostgreSQL, SQL Server, SQLite, SQLAlchemy, Sequelize.
+- **Frontend**: Vue.js 3, React, Next.js, Nuxt, Tailwind CSS.
+- **DevOps & Infra**: Docker, AWS SQS, Turborepo, Git, PM2, ELK (Elasticsearch, Logstash, Kibana).
+
+---
+
+## 🎓 Formação
+
+- **Introdução à Programação Web** (Curso de Extensão) - CEFET-MG (2019)
+- **Técnico em Desenvolvimento de Sistemas** - SENAI CTTI MG
+- **Análise e Desenvolvimento de Sistemas** - UNA
+
+---
+
+## 📫 Contato
+
+- **LinkedIn**: [Kaique Dias Barroso](https://www.linkedin.com/in/kaique-dias-barroso-23b336244/)
+- **E-mail**: diaskaique501@gmail.com
