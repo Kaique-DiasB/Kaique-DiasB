@@ -6,18 +6,9 @@ Lead & Engenheiro de Software Full Stack com foco em liderança técnica, desenv
 
 ## 🚀 Posicionamento Profissional
 
-Atuo como Lead e Referência Técnica, liderando decisões de arquitetura de backend com **Node.js** e **Python**, e orientando o desenvolvimento de interfaces responsivas com **Vue.js/React**. Tenho ownership sobre a confiabilidade e escalabilidade de serviços integrados de pagamentos e fluxos multi-tenant, aplicando mensageria (AWS SQS) e conceitos de conciliação. 
+Atuo como Lead e Referência Técnica, liderando decisões de arquitetura de backend com **Node.js** e **Python**, e orientando o desenvolvimento de interfaces com **Vue.js/React**. Tenho ownership sobre a confiabilidade e escalabilidade de serviços integrados de pagamentos e fluxos multi-tenant, aplicando mensageria (AWS SQS) e conceitos de conciliação, além de outros pontos. 
 
 Habilito o time de engenharia coordenando boards de sustentação, planejando a arquitetura de longo prazo e parametrizando ecossistemas locais de IA para aumentar a produtividade e a segurança dos desenvolvedores.
-
----
-
-## 🛠️ Áreas de Atuação
-
-- **Backend & Arquitetura**: Desenvolvimento de APIs REST e microsserviços em FastAPI (Python) e Express (Node.js).
-- **Integrações Financeiras**: Webhooks, conciliação de pagamentos com adquirentes e processamento assíncrono de cobranças.
-- **Sistemas Multi-tenant**: Padrões de isolamento lógico de tenants e rotinas resilientes de dados.
-- **Modernização Incremental**: Planejamento e migração progressiva de interfaces legadas e monolíticos sem regressão.
 
 ---
 
